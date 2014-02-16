@@ -27,7 +27,7 @@ The goal of this application is to find restaurants within a radius of a selecte
 ##Installation instructions:
 1. Setup [android studio](http://developer.android.com/sdk/installing/studio.html)
 2. Import the project from git
-    * VCS > Checkout from version control > Git/SVN/Mercurial
+    * VCS > Checkout from Version Control > GitHub
 3. You will need to enter your own API keys for google services
     * [Get an Android certificate and the Google Maps API key](https://developers.google.com/maps/documentation/android/start#get_an_android_certificate_and_the_google_maps_api_key)
     * Make sure you add com.zeroday.foodfinder to the allowed Android applications or refactor the package and add your own package
