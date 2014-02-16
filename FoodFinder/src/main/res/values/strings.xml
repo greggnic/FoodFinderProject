@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food Finder</string>
+    <string name="search_hint">fast food, italian, chinese, etc.</string>
+
+    <integer name="radius_value">5</integer>
+    <integer name="default_zoom">9</integer>
+    <integer name="max_radius">25</integer>
+
+</resources>
